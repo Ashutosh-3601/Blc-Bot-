@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "canvas": "^2.0.0-alpha.12",
+    "cheerio": "^1.0.0-rc.2",
+    "color": "^3.0.0",
+    "discord.js": "^11.3.2",
+    "eslint": "^4.19.1",
+    "fast-html-parser": "^1.0.1",
+    "google-translate-api": "^2.3.0",
+    "humanize-duration": "^3.14.0",
+    "mathjs": "^4.4.2",
+    "memejs": "^1.0.7",
+    "moments": "0.0.2",
+    "ms": "^2.1.1",
+    "querystring": "^0.2.0",
+    "quick.hook": "^1.4.2",
+    "random-puppy": "^1.1.0",
+    "superagent": "^3.8.3",
+    "table": "^4.0.3",
+    "unfluff": "^3.0.1",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.20.4"
+  }
+}
